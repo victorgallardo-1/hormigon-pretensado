@@ -1,0 +1,39 @@
+# Temporales de Office
+~$*
+*.tmp
+
+# LaTeX (auxiliares)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# MATLAB
+*.asv
+*.mex*
+slprj/
+
+# AutoCAD (respaldos y bloqueos)
+*.bak
+*.dwl
+*.dwl2
+*.sv$
+
+# Resultados generados por scripts
+resultados/
+
+# Visual Studio y Windows
+.vs/
+Thumbs.db
+desktop.ini
